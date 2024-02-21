@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savidi&label=Profile%20views&color=0e75b6&style=flat" alt="savidi" /> </p>
 
-- 🌱 I’m currently learning **Microbit**
+- 🌱 I’m finished learning **Microbit**
 
 - 📫 How to reach me **savidinimethma419@gmail.com**
 
