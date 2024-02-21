@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savidi Nimethma</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savidi&label=Profile%20views&color=0e75b6&style=flat" alt="savidi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=savidi&label=Profile%20views&color=0e75b6&style=flat" alt="savidi" /> </p>
 
+- I'm a **student**
 - 🌱 I’m finished learning **Microbit**
 
 - 📫 How to reach me **savidinimethma419@gmail.com**
